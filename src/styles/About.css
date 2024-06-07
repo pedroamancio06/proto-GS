@@ -1,0 +1,12 @@
+.about {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about h1 {
+    color: #007bff;
+  }
+  
+  .about p {
+    color: #666;
+  }

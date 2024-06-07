@@ -1,0 +1,30 @@
+.residue-table {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 3rem 0;
+  }
+  
+  .residue-table h2 {
+    color: #E0E0E0;
+  }
+
+  .residue-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .residue-table th, .residue-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .residue-table td {
+    color: #FFFFFF;
+  }
+  
+  .residue-table th {
+    background-color: #0056b3;
+    color: white;
+    text-align: left;
+  }

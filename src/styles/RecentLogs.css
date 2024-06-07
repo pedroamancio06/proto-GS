@@ -1,0 +1,33 @@
+.recent-logs {
+    margin-top: 2rem;
+  }
+
+.recent-logs h2 {
+  color: #E0E0E0;
+  margin-bottom: 1rem;
+}
+  
+  .recent-logs ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recent-logs li {
+    background-color: #0057b355;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    cursor: not-allowed;
+  }
+
+  .recent-logs li:hover {
+    background-color: #0056b3;
+  }
+  
+  .recent-logs span {
+    font-weight: bold;
+    color: #FFF;
+  }
