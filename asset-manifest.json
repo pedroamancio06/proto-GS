@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proto-GS/static/css/main.19caa271.css",
+    "main.js": "/proto-GS/static/js/main.d24e8313.js",
+    "static/media/pexels-cherry-jiang-2375680-4021165.jpg": "/proto-GS/static/media/pexels-cherry-jiang-2375680-4021165.5661a9d6cf4aadb7eb58.jpg",
+    "index.html": "/proto-GS/index.html",
+    "main.19caa271.css.map": "/proto-GS/static/css/main.19caa271.css.map",
+    "main.d24e8313.js.map": "/proto-GS/static/js/main.d24e8313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19caa271.css",
+    "static/js/main.d24e8313.js"
+  ]
+}
